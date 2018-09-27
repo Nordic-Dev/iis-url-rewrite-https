@@ -1,5 +1,5 @@
 # IIS HTTPS Rewrite Rule
-In order to automatically rewrite request from http --> https in .Net websites add this url rewrite rule to your <rules> in the web.config.
+Automatically rewrite requests from http --> https in .Net websites add this url rewrite rule to your <rules> in the web.config.
   
   ```
  <rules>
